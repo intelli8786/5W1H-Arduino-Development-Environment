@@ -347,3 +347,15 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+
+*.zip
+.DS_Store
+
+Document/*
+!Document/5W1H Guide Book.pdf
+
+Arduino IoT Studio/Moduino Programmer6/bin
+Arduino IoT Studio/Moduino Programmer6/obj
+
+Voice Recognition IoT Smarthome Studio/Butler3/bin
+Voice Recognition IoT Smarthome Studio/Butler3/obj
